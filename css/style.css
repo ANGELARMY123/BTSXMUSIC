@@ -1,0 +1,10 @@
+body{
+	background: linear-gradient(to right, #c50a68e8 , #0a7b97d5);
+	font-family: 'Lato', sans-serif;
+	font-size: 1.3em;
+	width: 50%;
+	margin: 15px auto;
+	padding: 20px;
+	text-align: center;
+	min-height: 50vh;
+}
