@@ -8,3 +8,12 @@ body{
 	text-align: center;
 	min-height: 50vh;
 }
+#playlist{
+    background: white;
+	background: white;
+	border-radius: 10px;
+	text-align: left;
+	opacity: 0.8;
+	color: #db0f72;
+	
+}
